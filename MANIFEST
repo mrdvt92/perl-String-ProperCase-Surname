@@ -1,0 +1,11 @@
+Changes
+lib/String/ProperCase/Surname.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
+t/001_use.t
+t/002_require.t
+t/003_hash.t
+perl-String-ProperCase-Surname.spec
+scripts/perl-String-ProperCase-Surname.pl
